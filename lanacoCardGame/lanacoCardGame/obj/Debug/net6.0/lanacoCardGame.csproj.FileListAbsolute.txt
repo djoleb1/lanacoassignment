@@ -1,0 +1,15 @@
+C:\Users\djole\source\repos\lanacoCardGame\lanacoCardGame\bin\Debug\net6.0\lanacoCardGame.exe
+C:\Users\djole\source\repos\lanacoCardGame\lanacoCardGame\bin\Debug\net6.0\lanacoCardGame.deps.json
+C:\Users\djole\source\repos\lanacoCardGame\lanacoCardGame\bin\Debug\net6.0\lanacoCardGame.runtimeconfig.json
+C:\Users\djole\source\repos\lanacoCardGame\lanacoCardGame\bin\Debug\net6.0\lanacoCardGame.dll
+C:\Users\djole\source\repos\lanacoCardGame\lanacoCardGame\bin\Debug\net6.0\lanacoCardGame.pdb
+C:\Users\djole\source\repos\lanacoCardGame\lanacoCardGame\obj\Debug\net6.0\lanacoCardGame.csproj.AssemblyReference.cache
+C:\Users\djole\source\repos\lanacoCardGame\lanacoCardGame\obj\Debug\net6.0\lanacoCardGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djole\source\repos\lanacoCardGame\lanacoCardGame\obj\Debug\net6.0\lanacoCardGame.AssemblyInfoInputs.cache
+C:\Users\djole\source\repos\lanacoCardGame\lanacoCardGame\obj\Debug\net6.0\lanacoCardGame.AssemblyInfo.cs
+C:\Users\djole\source\repos\lanacoCardGame\lanacoCardGame\obj\Debug\net6.0\lanacoCardGame.csproj.CoreCompileInputs.cache
+C:\Users\djole\source\repos\lanacoCardGame\lanacoCardGame\obj\Debug\net6.0\lanacoCardGame.dll
+C:\Users\djole\source\repos\lanacoCardGame\lanacoCardGame\obj\Debug\net6.0\refint\lanacoCardGame.dll
+C:\Users\djole\source\repos\lanacoCardGame\lanacoCardGame\obj\Debug\net6.0\lanacoCardGame.pdb
+C:\Users\djole\source\repos\lanacoCardGame\lanacoCardGame\obj\Debug\net6.0\lanacoCardGame.genruntimeconfig.cache
+C:\Users\djole\source\repos\lanacoCardGame\lanacoCardGame\obj\Debug\net6.0\ref\lanacoCardGame.dll
